@@ -1,0 +1,6 @@
+Pregunta 1 - Fichero .anf
+
+Pregunta 2 - Fichero .elog
+
+Como el fichero es muy grande y solo nos interesan las colisiones, buscar en la simulación
+la primera colisión y simular solo hasta ahí.
