@@ -1,3 +1,3 @@
-# Prácticas de la asignatura Diseño de Redes (614G010822122) del Grado en Ingeniería Informatica (UDC)
+# Diseño de Redes 
 
-## Autores: Tomé Maseda Dorado y Jorge Álvarez Cabado
+Prácticas de la asignatura **Diseño de Redes (614G010822122)** del Grado en Ingeniería Informatica en la Universidad de La Coruña (UDC).
