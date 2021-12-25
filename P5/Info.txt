@@ -1,0 +1,2 @@
+Asegurar que en t=10 haya un camino entre los dos nodos, no debería de costar mucho
+porque como los nodos se mueven a 1m/s no se deberían de haber movido mucho.
